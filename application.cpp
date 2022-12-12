@@ -7,16 +7,6 @@
 	Author: Arwa Mazher
 
 	CREATIVE COMPONENT: Ask the user what playback speed they want. The default is 50000 microseconds.
-
-// Bar Chart Animation
-//
-// Adam Koehler
-// U. of Illinois, Chicago
-// Fall 2022
-//
-// Original iteration of program developed by:
-// Shanon Reckinger
-// U. of Illinois, Chicago 
 **********************************************************************************************************************/
 
 #include <iostream>
